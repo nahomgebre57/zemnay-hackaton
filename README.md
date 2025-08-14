@@ -94,10 +94,6 @@ Admin dashboard will also be available on http://localhost:300/editor/posts
 
 to integrate check app/blog/page.jsx
 
-## Contributing
-
-- [Start a discussion](https://timtb.dev/contact) with a question, piece of feedback, or idea you want to share with me.
-- [Open an issue](https://github.com/timtbdev/Next.js-Blog-App/issues) if you believe you've encountered a bug with the starter kit.
 
 ## 🙇 Author
 
